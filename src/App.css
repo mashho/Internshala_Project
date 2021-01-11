@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  justify-content: center;
+  margin-top: auto;
+  display: flex;
+}
+td {
+  text-align: center;
+  justify-content: center;
+}
+th {
+  margin-right: 10px;
+}
+th {
+  padding-right: 10px;
+}
+tbody {
+  margin-top: 20px !important;
+}
+.second {
+  margin-left: 20px;
+}
+.feature {
+  font-size: 30px;
+  margin-right: 30px;
+}
+tbody {
+  margin-top: 30px;
+}
